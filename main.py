@@ -37,4 +37,5 @@ app = QApplication(sys.argv)
 main_window = Guess_Number()
 main_window.show()
 
+
 app.exec()
